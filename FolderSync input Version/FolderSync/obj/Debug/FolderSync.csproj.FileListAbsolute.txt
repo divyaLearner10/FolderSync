@@ -1,0 +1,9 @@
+D:\Fiverr\FolderSync\FolderSync\bin\Debug\FolderSync.exe.config
+D:\Fiverr\FolderSync\FolderSync\obj\Debug\FolderSync.csprojResolveAssemblyReference.cache
+D:\Fiverr\FolderSync\FolderSync\bin\Debug\FolderSync.exe
+D:\Fiverr\FolderSync\FolderSync\bin\Debug\FolderSync.pdb
+D:\Fiverr\FolderSync\FolderSync\obj\Debug\FolderSync.exe
+D:\Fiverr\FolderSync\FolderSync\obj\Debug\FolderSync.pdb
+D:\Fiverr\FolderSync input Version\FolderSync\bin\Debug\FolderSync.exe.config
+D:\Fiverr\FolderSync input Version\FolderSync\obj\Debug\FolderSync.exe
+D:\Fiverr\FolderSync input Version\FolderSync\obj\Debug\FolderSync.pdb
