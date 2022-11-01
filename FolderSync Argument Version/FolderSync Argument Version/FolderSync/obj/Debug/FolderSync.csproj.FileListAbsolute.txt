@@ -1,0 +1,19 @@
+D:\Fiverr\FolderSync\FolderSync\bin\Debug\FolderSync.exe.config
+D:\Fiverr\FolderSync\FolderSync\obj\Debug\FolderSync.csprojResolveAssemblyReference.cache
+D:\Fiverr\FolderSync\FolderSync\bin\Debug\FolderSync.exe
+D:\Fiverr\FolderSync\FolderSync\bin\Debug\FolderSync.pdb
+D:\Fiverr\FolderSync\FolderSync\obj\Debug\FolderSync.exe
+D:\Fiverr\FolderSync\FolderSync\obj\Debug\FolderSync.pdb
+D:\Fiverr\FolderSync Argument Version\FolderSync\bin\Debug\FolderSync.exe.config
+D:\Fiverr\FolderSync Argument Version\FolderSync\obj\Debug\FolderSync.exe
+D:\Fiverr\FolderSync Argument Version\FolderSync\obj\Debug\FolderSync.pdb
+D:\Fiverr\FolderSync Argument Version\FolderSync\bin\Debug\FolderSync.exe
+D:\Fiverr\FolderSync Argument Version\FolderSync\bin\Debug\FolderSync.pdb
+D:\Fiverr\FolderSync Argument Version\FolderSync\obj\Debug\FolderSync.csprojResolveAssemblyReference.cache
+C:\Csharp Projects\FolderSync with demo video\FolderSync Argument Version\FolderSync Argument Version\FolderSync\bin\Debug\FolderSync.exe.config
+C:\Csharp Projects\FolderSync with demo video\FolderSync Argument Version\FolderSync Argument Version\FolderSync\bin\Debug\FolderSync.exe
+C:\Csharp Projects\FolderSync with demo video\FolderSync Argument Version\FolderSync Argument Version\FolderSync\bin\Debug\FolderSync.pdb
+C:\Csharp Projects\FolderSync with demo video\FolderSync Argument Version\FolderSync Argument Version\FolderSync\obj\Debug\FolderSync.csproj.AssemblyReference.cache
+C:\Csharp Projects\FolderSync with demo video\FolderSync Argument Version\FolderSync Argument Version\FolderSync\obj\Debug\FolderSync.csproj.CoreCompileInputs.cache
+C:\Csharp Projects\FolderSync with demo video\FolderSync Argument Version\FolderSync Argument Version\FolderSync\obj\Debug\FolderSync.exe
+C:\Csharp Projects\FolderSync with demo video\FolderSync Argument Version\FolderSync Argument Version\FolderSync\obj\Debug\FolderSync.pdb
