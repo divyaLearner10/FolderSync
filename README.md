@@ -1,0 +1,2 @@
+# FolderSync
+Synchronization of Folders
